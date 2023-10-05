@@ -1,6 +1,8 @@
 # lab
 연구실에서 한 것 정리
 
+[관련 프로젝트](https://github.com/mseo39/Commercial-Area-Analysis)
+
 2021-7-26
 * 세세한 내용보다 큰 흐름을 이해할 것
 
